@@ -1,0 +1,72 @@
+@charset "ISO-8859-1";
+.letra{
+	color: white;
+	font-family: serif;
+	text-align: center;
+	justify-content: center;
+}
+.letra2{
+	text-align: center;
+	justify-content: center;
+	font-size: 27px;
+}
+.cov{
+	background-color: #228961;
+	border-radius: 5px;
+	font-weight: bold;
+	color: white;
+	padding: 8px;
+	font-size: 20px;
+}
+.campo{
+	border-radius: 40px 0px 0px 40px;
+	margin-left: 13%;
+}
+.butt{
+	background-color: #228961;
+	border-radius: 0px 40px 40px 0px;
+	margin-right: 13%;
+}
+.butt:hover{
+	background-color: #24A271;
+	border-radius: 0px 40px 40px 0px;
+	margin-right: 13%;
+	font-weight: bold;
+}
+.butt2{
+	background-color: #228961;
+	border-radius: 40px;
+}
+.butt2:hover{
+	background-color: #24A271;
+	border-radius: 40px;
+	font-weight: bold;
+}
+.verde{
+	color: #228961;
+	font-weight: normal;
+}
+.img1{
+	width: 75px;
+	height: auto;
+}
+.cuadro{
+	text-align: center;
+	background-color: #E3D9D9;
+	padding: 20px;
+
+}
+.rad{
+	border-radius: 30px;
+	margin: 5px;
+	font-weight: bold;
+	box-shadow: 5px 5px 10px black;
+	color: #228961;
+}
+.rad:hover{
+	border-radius: 30px;
+	margin: 5px;
+	font-weight: bold;
+	box-shadow: 5px 5px 10px black;
+	color: #24A271;
+}
