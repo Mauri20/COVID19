@@ -29,7 +29,7 @@ public class BeneficiarioDao {
             	benef.setBeneficio(res.getString("beneficio"));;
             }
         } catch (Exception e) {
-        	System.out.println("No se encontró el usuario" + e);
+        	System.out.println("No se encontró el Beneficiario" + e);
         }
 		return benef;
 	}
